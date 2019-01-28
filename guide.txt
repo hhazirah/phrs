@@ -1,0 +1,8 @@
+
+user page
+email:test@gmail.com
+passw:Test@123
+
+doctor page
+email:test@demo.com
+passw:Test@123
